@@ -47,12 +47,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src=["https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"](https://github.com/AndrexMrls) />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndrexMrls&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrexMrls&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrexMrls&layout=compact&theme=tokyonight" />
 </p>
 
 <hr>
