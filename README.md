@@ -14,7 +14,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <ul>
-  <li>🎓 Systems Engineering Student (4th Semester)</li>
+  <li>🎓 Systems Engineering Student (5th Semester)</li>
   <li>💻 Passionate about Web Development</li>
   <li>☕ Experience programming with Java</li>
   <li>🐍 Python for logic and problem solving</li>
